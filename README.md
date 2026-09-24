@@ -4,19 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**2** problems solved on [Xom Data](https://xomdata.com/practice).
+**13** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 0 | 0 | 0 | 1 | 1 |
-| SQL | 1 | 0 | 0 | 0 | 1 |
+| Python | 3 | 2 | 1 | 1 | 7 |
+| SQL | 1 | 1 | 4 | 0 | 6 |
 
 **Recently solved**
 
-- [easy-sum-004](https://xomdata.com/practice/easy-sum-004) · Easy · 2026-09-11
-- [py-longest-palindrome-substr](https://xomdata.com/practice/py-longest-palindrome-substr) · Nightmare · 2026-09-10
+- [hard-rfm-003](https://xomdata.com/practice/hard-rfm-003) · Hard · 2026-09-24
+- [pd-group-count](https://xomdata.com/practice/pd-group-count) · Easy · 2026-09-23
+- [hard-anti-001](https://xomdata.com/practice/hard-anti-001) · Hard · 2026-09-22
+- [py-rotate-matrix](https://xomdata.com/practice/py-rotate-matrix) · Hard · 2026-09-21
+- [py-window-max-sum](https://xomdata.com/practice/py-window-max-sum) · Medium · 2026-09-20
+- [hard-cohort-001](https://xomdata.com/practice/hard-cohort-001) · Hard · 2026-09-19
+- [pd-group-sum](https://xomdata.com/practice/pd-group-sum) · Easy · 2026-09-18
+- [py-join-records](https://xomdata.com/practice/py-join-records) · Medium · 2026-09-17
+- [py-price-lookup](https://xomdata.com/practice/py-price-lookup) · Easy · 2026-09-16
+- [hard-monetary-001](https://xomdata.com/practice/hard-monetary-001) · Hard · 2026-09-14
 
-_Synced 2 solutions · last update 2026-09-11_
+_Synced 13 solutions · last update 2026-09-24_
 
 <!-- xomdata:stats:end -->
 

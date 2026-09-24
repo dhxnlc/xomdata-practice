@@ -1,4 +1,15 @@
 {
   "practice/python/nightmare/py-longest-palindrome-substr/solution.py": "4288227c58c80282799edccb920a02bbb5fc835205939df68af94420ef459885",
-  "practice/sql/easy/easy-sum-004/solution.sql": "53b556aedc606af0172375ebe96cf1fa5458ac72fab94b33461f4ae3d0bd8d8d"
+  "practice/sql/easy/easy-sum-004/solution.sql": "53b556aedc606af0172375ebe96cf1fa5458ac72fab94b33461f4ae3d0bd8d8d",
+  "practice/sql/medium/medium-topn-001/solution.sql": "74930aa30655bd389d5f323c9b0ab08cb4df97af4bb1bfc186824e6c9f8c2cb4",
+  "practice/sql/hard/hard-monetary-001/solution.sql": "d7cfab18188cc1f55ce97e4f5cbdc15725b5c3ff2f23ebb93b162bde26bcb4af",
+  "practice/python/easy/py-price-lookup/solution.py": "59e53c536dace3811a68e97f3becfce3586a3b77f4a9765fd7f7b3d92c583b91",
+  "practice/python/medium/py-join-records/solution.py": "0512305b179310bb6d0d72bad33b332d3b92b271a2d11ca626f6a8c3c79961de",
+  "practice/python/easy/pd-group-sum/solution.py": "b90268541e31b46b2ca69daecb15f3038f3ea209405b7f5d2d664c0ad09d4b0a",
+  "practice/sql/hard/hard-cohort-001/solution.sql": "e247d292983f9601ec03f965887f051ae7f2d84bf4ef1181cc03d2da37901671",
+  "practice/python/medium/py-window-max-sum/solution.py": "645cd4372f4aac288141b028edf30315b4c13ba75182aa486b38292ec7240789",
+  "practice/python/hard/py-rotate-matrix/solution.py": "8ef09fc21e3c533f82b13e92dccf3e2cc8c9783fe61aa56c80ec88180b7e5ea6",
+  "practice/sql/hard/hard-anti-001/solution.sql": "9f95741a27a6f9e4bb1104ef4883d85020cd3e0690cdcad9b303985dddddf72d",
+  "practice/python/easy/pd-group-count/solution.py": "514247eeac398f4fefd569f782ba89eda5a5989bfaa7d48a30a6233609a5e771",
+  "practice/sql/hard/hard-rfm-003/solution.sql": "933ba918f9fab1b821649835b4b2502219c9de4d789c0a33073eca006edc0cf2"
 }
